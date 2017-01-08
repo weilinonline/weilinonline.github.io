@@ -1,9 +1,9 @@
 menu:
     Blog: /
     Archive: /archives/
-    Category: /category/
-    Technology: /technology/
-    Literature: /literature/
+    Essay: /categories/essay
+    Technology: /categories/technology/
+    Literature: /categories/literature/
     GitHub: https://github.com/weilinonline
     Rss: /atom.xml
 
