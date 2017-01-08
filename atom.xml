@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-08T14:29:50.000Z</updated>
+  <updated>2017-01-08T14:56:55.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,117 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人简历</title>
+    <link href="http://yoursite.com/2017/01/08/index/"/>
+    <id>http://yoursite.com/2017/01/08/index/</id>
+    <published>2017-01-08T14:48:00.000Z</published>
+    <updated>2017-01-08T14:56:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><ul>
+<li>曾卫林</li>
+<li>15801766493</li>
+<li>weilinonline@163.com</li>
+</ul>
+<h2 id="岗位"><a href="#岗位" class="headerlink" title="岗位"></a>岗位</h2><p>资深前端工程师</p>
+<h2 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h2><ol>
+<li>熟悉 Web 开发工具链以及生态系统，Mac 和 Chrome 重度用户</li>
+<li><strong>熟悉主流框架 React、Vue，融入状态容器 (Flux) 架构模式开发，提取其中优秀代码思维到产品开发流程中，推进并实现前端的优化；提倡功能模块化、组件化开发</strong></li>
+<li><strong>具备利用 Node 平台以及 Npm 包优化前端开发流程</strong></li>
+<li>掌握 HTML5、下一代 ECMAScript、CSS3 中提供的特性来开发无线 H5 应用</li>
+<li>对前后端合作模式有深入理解，熟悉跨浏览器、跨终端和跨容器端开发</li>
+<li>持续关注业界动态、持续学习</li>
+</ol>
+<h2 id="项目"><a href="#项目" class="headerlink" title="项目"></a>项目</h2><ol>
+<li><p>挑货详情页</p>
+<ul>
+<li>通过记录用户的访问轨迹和关系，智能推荐相关的商品和活动，增加用户粘性、提高访问体验</li>
+<li>展示商品文本、媒体、视频、优惠券以及留言、关注等功能</li>
+</ul>
+</li>
+<li><p>直播</p>
+<ul>
+<li>互联网新媒体的加入，丰富拓展业务新方式</li>
+<li>纯 H5 个人主页、H5 预告页</li>
+<li>H5 直播组件</li>
+</ul>
+</li>
+<li><p><strong>组件开发</strong></p>
+<ul>
+<li>尽管采用纯 H5 跨平台开发，成本低、周期短，更新快，然后它还不能满足性能要求高、交互体验佳的需求。业界  Weex 的发布, 配合 React、Vue 等工具链，添加组件搭建页面，足以实现体验和性能跟 Native 差不多的移动 WebApp</li>
+<li>基础组件，如：导航、搜索、分享、文本</li>
+<li>通用组件，如：滑动、列表</li>
+<li>业务组件，如：挑货、直播</li>
+</ul>
+</li>
+<li><p><strong>jsBridge 标准化</strong></p>
+<ul>
+<li>抹平内部三端通信 API 的差异性，推进和督促各个业务方改进</li>
+<li>内部三端通信底层 API 变动频繁，通过这个项目，实现一套统一的 API 规范，支持 1688 相关业务方。后期 API 变动，只需要修改这个项目相关逻辑，各个业务方不需要做任何的改动，减少修改和维护成本</li>
+</ul>
+</li>
+<li><p><strong>保险</strong></p>
+<ul>
+<li>保险作为一个独立的产品，更好的保障客户旅途安全</li>
+<li>负责负责分工和优化、部署和上线以外，同时负责用户保险下单，接入风控、支付整个链路的开发</li>
+</ul>
+</li>
+<li><p>机 + 酒</p>
+<ul>
+<li>机 + 酒是采用自由行模式的旅游产品，满足用户出行时，方便购买机票和酒店</li>
+<li>负责下单时 “ 更换酒店 “ 链路，提供展示酒店列表页、详情页、点评等功能</li>
+<li>首次采用 Hybrid 技术实现三端用户体验一致，依赖 iScroll.js 和 Hammer.js 等相关库支持 H5 带来的局限性</li>
+</ul>
+</li>
+<li><p>其它</p>
+<ul>
+<li>内部项目 Mbox, 服务 CMS 系统</li>
+<li>jsBridge 业务打包工具</li>
+<li>前端工具流程</li>
+<li>活动页面等等</li>
+</ul>
+</li>
+</ol>
+<h2 id="经历"><a href="#经历" class="headerlink" title="经历"></a>经历</h2><ol>
+<li><p><strong>阿里 1688 技术部</strong>，资深前端工程师，2016年2月～至今</p>
+<ul>
+<li>H5 项目开发</li>
+<li>基础设施建设</li>
+<li>组件开发</li>
+</ul>
+</li>
+<li><p><strong>携程旅游事业部 SBU</strong>，资深前端工程师，2014年1月～2016年2月</p>
+<ul>
+<li>H5 项目开发</li>
+<li>基础设施建设</li>
+</ul>
+</li>
+<li><p>公平价技术部，前端工程师，2012年7月～2013年12月</p>
+<ul>
+<li>网站前端技术选型、设计和开发</li>
+<li>网站后台代码开发</li>
+<li>工程化工具建设</li>
+</ul>
+</li>
+</ol>
+<h2 id="院校"><a href="#院校" class="headerlink" title="院校"></a>院校</h2><p>南昌大学，计算机科学与技术，本科，2012年7月10日</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;曾卫林&lt;/li&gt;
+&lt;li&gt;15801766493&lt;/li&gt;
+&lt;li&gt;weilinonline@163.com&lt;/li&gt;
+&lt;/ul
+    
+    </summary>
+    
+    
+      <category term="resume" scheme="http://yoursite.com/tags/resume/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
