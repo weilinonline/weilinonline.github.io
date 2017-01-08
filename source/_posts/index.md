@@ -1,7 +1,7 @@
 ---
 title: 个人简历
 date: 2017-01-08 22:48:00
-tags: resume
+tags: resume, 个人简历
 ---
 
 ## 简介
