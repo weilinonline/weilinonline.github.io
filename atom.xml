@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://weilin.design/"/>
   <updated>2017-04-05T10:15:14.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://weilin.design/</id>
   
   <author>
     <name>煜林</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>个人简历</title>
-    <link href="http://yoursite.com/2017/04/05/resume/"/>
-    <id>http://yoursite.com/2017/04/05/resume/</id>
+    <link href="http://weilin.design/2017/04/05/resume/"/>
+    <id>http://weilin.design/2017/04/05/resume/</id>
     <published>2017-04-05T10:07:00.000Z</published>
     <updated>2017-04-05T10:15:14.000Z</updated>
     
@@ -105,14 +105,14 @@
     </summary>
     
     
-      <category term="resume" scheme="http://yoursite.com/tags/resume/"/>
+      <category term="resume" scheme="http://weilin.design/tags/resume/"/>
     
   </entry>
   
   <entry>
     <title>intro</title>
-    <link href="http://yoursite.com/2017/04/05/intro/"/>
-    <id>http://yoursite.com/2017/04/05/intro/</id>
+    <link href="http://weilin.design/2017/04/05/intro/"/>
+    <id>http://weilin.design/2017/04/05/intro/</id>
     <published>2017-04-05T10:06:09.000Z</published>
     <updated>2017-04-05T10:06:09.000Z</updated>
     
@@ -125,8 +125,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/04/05/hello-world/"/>
-    <id>http://yoursite.com/2017/04/05/hello-world/</id>
+    <link href="http://weilin.design/2017/04/05/hello-world/"/>
+    <id>http://weilin.design/2017/04/05/hello-world/</id>
     <published>2017-04-05T09:56:17.000Z</published>
     <updated>2017-04-05T09:56:17.000Z</updated>
     
@@ -152,8 +152,8 @@
   
   <entry>
     <title>你好，世界</title>
-    <link href="http://yoursite.com/2017/01/09/sayhello/"/>
-    <id>http://yoursite.com/2017/01/09/sayhello/</id>
+    <link href="http://weilin.design/2017/01/09/sayhello/"/>
+    <id>http://weilin.design/2017/01/09/sayhello/</id>
     <published>2017-01-08T17:43:08.000Z</published>
     <updated>2017-04-05T09:56:17.000Z</updated>
     
@@ -169,10 +169,10 @@
     
     </summary>
     
-      <category term="essay" scheme="http://yoursite.com/categories/essay/"/>
+      <category term="essay" scheme="http://weilin.design/categories/essay/"/>
     
     
-      <category term="essay, 随笔" scheme="http://yoursite.com/tags/essay-%E9%9A%8F%E7%AC%94/"/>
+      <category term="essay, 随笔" scheme="http://weilin.design/tags/essay-%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
