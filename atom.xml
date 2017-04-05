@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>煜林</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-04-05T10:15:14.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>煜林</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人简历</title>
+    <link href="http://yoursite.com/2017/04/05/resume/"/>
+    <id>http://yoursite.com/2017/04/05/resume/</id>
+    <published>2017-04-05T10:07:00.000Z</published>
+    <updated>2017-04-05T10:15:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><ul>
+<li>手机：<strong>15801766493</strong></li>
+<li>邮箱：weilinonline@163.com</li>
+<li>微信／QQ：weilinonline／823736535</li>
+</ul>
+<h2 id="基本信息"><a href="#基本信息" class="headerlink" title="基本信息"></a>基本信息</h2><ul>
+<li><strong>曾卫林</strong>／男</li>
+<li>本科／南昌大学／<strong>计算机科学与技术</strong>专业</li>
+<li>工作经验：<strong>5年</strong></li>
+<li>英语水平：<strong>六级</strong></li>
+<li>期望职位：<strong>前端专家</strong></li>
+<li>期望城市：<strong>杭州</strong></li>
+</ul>
+<h2 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h2><h3 id="阿里巴巴（中国）网络技术有限公司（2016年2月～至今）"><a href="#阿里巴巴（中国）网络技术有限公司（2016年2月～至今）" class="headerlink" title="阿里巴巴（中国）网络技术有限公司（2016年2月～至今）"></a>阿里巴巴（中国）网络技术有限公司（2016年2月～至今）</h3><h4 id="1-挑货"><a href="#1-挑货" class="headerlink" title="1. 挑货"></a>1. 挑货</h4><ul>
+<li><strong>背景：</strong>内容运营大背景推动下，基于关注关系、话题、中心化频道，商家生产优化内容，吸引买家阅读，关注聚粉并产生转化。买家通过阅读优质内容，产生自己进货的“参谋”和“指南”</li>
+<li><strong>时间：</strong>2016年8月～至今</li>
+<li><strong>业绩：</strong>截止2017年3月6日，DAU 达到 <strong>34W／天</strong>，新建关注关系 <strong>88168 对</strong>，OfferDetail 引导占比 <strong>30% 以上</strong>。利用 Vue + Vuex 技术体系开发媒体组件，划分富文本、视频、图片、OFFER、优惠券、评论、操作等组件，<strong>通过组合组件积木式搭建详情页</strong>。采用<strong>碎片化管理</strong>，优化页面展示、可维护性和灵活性</li>
+</ul>
+<h4 id="2-直播"><a href="#2-直播" class="headerlink" title="2. 直播"></a>2. 直播</h4><ul>
+<li><strong>背景：</strong>接入淘宝直播底层 API，招募 B 类特色厂家，入住 1688 主播平台。买家实时查看商家直播，及时向商家反馈、提问、得到及时回复，并在直播间直接下单采购、拿样或者收藏后再集中采购</li>
+<li><strong>时间：</strong>2016年7月～至今</li>
+<li><strong>业绩：</strong>截止2017年3月6日，DAU 达到 <strong>8W／天</strong>，场均观众 <strong>1800 人</strong>，OfferDetail 引导占比 <strong>30% 以上</strong>。整理和梳理主播 API 在不同的平台和版本上的差异，提高统一跳转逻辑和 Fetch API的请求 API兼容度</li>
+</ul>
+<h4 id="3-大促"><a href="#3-大促" class="headerlink" title="3. 大促"></a>3. 大促</h4><ul>
+<li><strong>背景：</strong>参与电商 3月21日、6月25日、9月8日、12月18日 促销</li>
+<li><strong>时间：</strong>2016年3月～至今</li>
+<li><strong>业绩：</strong>沉淀出“邀请有礼”活动，做到文案和活动图片全配置，争取不做改动，大促零部署，释放入口即可。开发 RAX 跨容器组件，采用静态数据配置和动态数据配置双管齐下，客户端内置统一组件，组件积木搭建页面，原生体验和三端无差异。</li>
+</ul>
+<h4 id="4-基础建设"><a href="#4-基础建设" class="headerlink" title="4. 基础建设"></a>4. 基础建设</h4><ul>
+<li><strong>背景：</strong>标准化 jsBridge</li>
+<li><strong>时间：</strong>2016年8月～2016年11月</li>
+<li><strong>业绩：</strong>抹平 Wing 和 WindVane API 差异化的，提供了一套新的 jsBridge API，推动 1688 业务团队迁移和新接入</li>
+</ul>
+<h4 id="5-其它"><a href="#5-其它" class="headerlink" title="5. 其它"></a>5. 其它</h4><ul>
+<li>SMART 设定 KPI 目标，践行以可量化目标为指导</li>
+<li>协助和帮助团队共进退</li>
+</ul>
+<h3 id="携程计算机技术（上海）有限公司（2014年2月～2016年2月）"><a href="#携程计算机技术（上海）有限公司（2014年2月～2016年2月）" class="headerlink" title="携程计算机技术（上海）有限公司（2014年2月～2016年2月）"></a>携程计算机技术（上海）有限公司（2014年2月～2016年2月）</h3><h4 id="1-保险"><a href="#1-保险" class="headerlink" title="1. 保险"></a>1. 保险</h4><ul>
+<li><strong>背景：</strong>由于之前的旅游保险都是跟其它旅游产品绑定在一起销售，BU 之间存在保险冗余业务，生产和非成本太大。在这样的背景下，组建和带领新团队，将保险形成独立的业务，过渡性迁移各 BU 对保险的依赖，同时提供独立的保险下单流程</li>
+<li><strong>时间：</strong>2014年8月～2016年2月</li>
+<li><strong>人员：</strong>3人</li>
+<li><strong>业绩：</strong>作为负责人，完成团队的组建、沟通和调度任务，同时也保证下单流程的开发、工具建设和性能优化等。<strong>项目上线后，达到首页秒开、功能组件化、按需加载、兼容主流的机型（Android 4.0+和 iOS 7+）</strong>…2015年3月首次超过 PC 下单量，达到占比 <strong>53%</strong> 以上。首页增加 <strong>保险</strong> 入口后，流量急剧提升，对性能优化的要求更加严苛，迭代开发部署前加入压力测试环节，确保并发数量 1K 以内达到流畅访问</li>
+</ul>
+<h4 id="2-高级搜索"><a href="#2-高级搜索" class="headerlink" title="2. 高级搜索"></a>2. 高级搜索</h4><ul>
+<li><strong>背景：</strong>旅游板块只支持简单搜索，没有更加确定性的高级搜索</li>
+<li><strong>时间：</strong>2015年5月～2015年7月</li>
+<li><strong>人员：</strong>1人</li>
+<li><strong>业绩：</strong>拓宽简单搜索的边界。以用户为中心，简单操作即可满足更加确定的需求</li>
+</ul>
+<h4 id="3-游游帮你找产品"><a href="#3-游游帮你找产品" class="headerlink" title="3. 游游帮你找产品"></a>3. 游游帮你找产品</h4><ul>
+<li><strong>背景：</strong>接入公司人工智能算法，根据用户使用习惯智能推荐目的地以及相关的产品</li>
+<li><strong>时间：</strong>2014年10月～2015年8月</li>
+<li><strong>人员：</strong>2人</li>
+<li><strong>业绩：</strong>技术调研跨端开发模式下的手势，接入 Hammer.js 框架，沉淀出一份符合团队开发的手势文档。项目上线后每天都有上万的用户信息下意向单，得到部门领导和同事们的一直好评</li>
+</ul>
+<h4 id="4-自由行"><a href="#4-自由行" class="headerlink" title="4. 自由行"></a>4. 自由行</h4><ul>
+<li><strong>背景：</strong>弥补机 + 酒下单流程 B 环中缺失的“更换酒店”链路</li>
+<li><strong>时间：</strong>2014年3月</li>
+<li><strong>人员：</strong>1人</li>
+<li><strong>业绩：</strong>Hybrid 模式带来的低成本、高效率和跨平台等优势的同时，对性能、兼容、效率、体验等要求比之前更加苛刻。通过项目的实践，<strong>熟悉和掌握新模式下的调试技巧、兼容性的处理，不断探索和拓展新的边界</strong></li>
+</ul>
+<h4 id="5-其它-1"><a href="#5-其它-1" class="headerlink" title="5. 其它"></a>5. 其它</h4><p>协助和实现网站旅游板块功能模块和活动页面</p>
+<h3 id="南京公平价网络技术有限公司（2012年7月～2014年1月）"><a href="#南京公平价网络技术有限公司（2012年7月～2014年1月）" class="headerlink" title="南京公平价网络技术有限公司（2012年7月～2014年1月）"></a>南京公平价网络技术有限公司（2012年7月～2014年1月）</h3><h4 id="1-网站"><a href="#1-网站" class="headerlink" title="1. 网站"></a>1. 网站</h4><p>实现网站从无到有，完善二手车估值主流程。作为核心开发，不但完成了前端界面开发，更提出和采用 MVC 架构，选型 Backbone 实现根据功能划分，实现模块系统，抽象出共同模块，有效的提高代码的抽象性和可维护性。在网站上线后，Web 前端性能首屏时间从 5s 减少到 2s。后期加入网站日志系统，以及减少代码库的加载量等。2013年升任项目的前端负责人，参与团队技术选型和代码优化策略，有效的支持网站运营，同时增进了自我表达与团队沟通、协作的技能。</p>
+<h4 id="2-其它"><a href="#2-其它" class="headerlink" title="2. 其它"></a>2. 其它</h4><p>深入业务合作方，参与线下经销商的沟通和推广工作，实现业务和技术两手抓。</p>
+<h2 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h2><ul>
+<li><strong>开发：</strong>HTML／JAVAScript／CSS／Node</li>
+<li><strong>框架：</strong>Vue／Vuex／React／Rax／WEEX</li>
+<li><strong>工具：</strong>Webpack／Less／ES6／HTML5／Charles</li>
+<li><strong>版本：</strong>Git</li>
+<li><strong>平台：</strong>Mac／Chrome／iOS／Android／H5</li>
+<li><strong>等等</strong></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;联系方式&quot;&gt;&lt;a href=&quot;#联系方式&quot; class=&quot;headerlink&quot; title=&quot;联系方式&quot;&gt;&lt;/a&gt;联系方式&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;手机：&lt;strong&gt;15801766493&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;邮箱：weilinonline
+    
+    </summary>
+    
+    
+      <category term="resume" scheme="http://yoursite.com/tags/resume/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>intro</title>
+    <link href="http://yoursite.com/2017/04/05/intro/"/>
+    <id>http://yoursite.com/2017/04/05/intro/</id>
+    <published>2017-04-05T10:06:09.000Z</published>
+    <updated>2017-04-05T10:06:09.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/04/05/hello-world/"/>
+    <id>http://yoursite.com/2017/04/05/hello-world/</id>
+    <published>2017-04-05T09:56:17.000Z</published>
+    <updated>2017-04-05T09:56:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好，世界</title>
+    <link href="http://yoursite.com/2017/01/09/sayhello/"/>
+    <id>http://yoursite.com/2017/01/09/sayhello/</id>
+    <published>2017-01-08T17:43:08.000Z</published>
+    <updated>2017-04-05T09:56:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好，世界</p>
+<p>我的第一篇静态博客问世了</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;你好，世界&lt;/p&gt;
+&lt;p&gt;我的第一篇静态博客问世了&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="essay" scheme="http://yoursite.com/categories/essay/"/>
+    
+    
+      <category term="essay, 随笔" scheme="http://yoursite.com/tags/essay-%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
