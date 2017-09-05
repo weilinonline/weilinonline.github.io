@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://weilin.design/"/>
-  <updated>2017-04-05T10:06:09.000Z</updated>
+  <updated>2017-05-25T15:53:44.000Z</updated>
   <id>http://weilin.design/</id>
   
   <author>
@@ -16,13 +16,58 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>intro</title>
+    <title></title>
     <link href="http://weilin.design/2017/04/05/intro/"/>
     <id>http://weilin.design/2017/04/05/intro/</id>
     <published>2017-04-05T10:06:09.000Z</published>
-    <updated>2017-04-05T10:06:09.000Z</updated>
+    <updated>2017-05-25T15:53:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="项目列表"><a href="#项目列表" class="headerlink" title="项目列表"></a>项目列表</h2><h4 id="1-关注组件"><a href="#1-关注组件" class="headerlink" title="1. 关注组件"></a>1. 关注组件</h4><ul>
+<li><p><strong>整体进度：</strong></p>
+<p>  已发布</p>
+</li>
+</ul>
+<h4 id="2-热门市场组件"><a href="#2-热门市场组件" class="headerlink" title="2. 热门市场组件"></a>2. 热门市场组件</h4><ul>
+<li><p><strong>整体进度：</strong></p>
+<p>  待联调（预计周五下班前交付）</p>
+</li>
+<li><p><strong>详细进度：</strong></p>
+<ul>
+<li>主题市场页面使用数据导航切换</li>
+<li>拆分<code>热门市场-提图组件</code>和<code>热门市场-推品组件</code>，监听数据导航切换时间<code>listrefresh</code>，目前完成80%</li>
+</ul>
+</li>
+<li><p><strong>问题：</strong></p>
+<ul>
+<li>需求太紧急，</li>
+<li>热门市场数据源没有发布，目前只支持预发验证</li>
+</ul>
+</li>
+</ul>
+<h4 id="3-挑货优惠券"><a href="#3-挑货优惠券" class="headerlink" title="3. 挑货优惠券"></a>3. 挑货优惠券</h4><ul>
+<li><p><strong>整体进度：</strong></p>
+<p>  已发布</p>
+</li>
+</ul>
+<h4 id="4-买家库身份核查弹窗"><a href="#4-买家库身份核查弹窗" class="headerlink" title="4. 买家库身份核查弹窗"></a>4. 买家库身份核查弹窗</h4><ul>
+<li><p><strong>整体进度：</strong></p>
+<p>  已发布</p>
+</li>
+<li><p><strong>问题：</strong></p>
+<ul>
+<li>数据统计上出了问题，@冥渊和@贷成在跟进</li>
+<li>H5页面发布请求，没有透传登录信息给服务端，目前使用@寄文提供的<code>waplogin.html</code>临时解决，但是需要基础设施能统一解决，已知会@元策，希望后期能统一加上</li>
+</ul>
+</li>
+</ul>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ol>
+<li>出去玩，千万要注意安全，否则很容易受伤</li>
+</ol>
+]]></content>
     
     <summary type="html">
+    
+      &lt;h2 id=&quot;项目列表&quot;&gt;&lt;a href=&quot;#项目列表&quot; class=&quot;headerlink&quot; title=&quot;项目列表&quot;&gt;&lt;/a&gt;项目列表&lt;/h2&gt;&lt;h4 id=&quot;1-关注组件&quot;&gt;&lt;a href=&quot;#1-关注组件&quot; class=&quot;headerlink&quot; title=&quot;1. 关注
     
     </summary>
     
