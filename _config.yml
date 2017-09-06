@@ -7,12 +7,12 @@ title: 煜林
 subtitle:
 description:
 author: 煜林
-language: zh-cn
+language: zh-CN
 timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://weilin.design
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
