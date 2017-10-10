@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://weilin.design/"/>
-  <updated>2017-05-25T15:53:44.000Z</updated>
+  <updated>2017-10-10T11:53:37.000Z</updated>
   <id>http://weilin.design/</id>
   
   <author>
@@ -16,114 +16,72 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://weilin.design/2017/04/05/intro/"/>
-    <id>http://weilin.design/2017/04/05/intro/</id>
-    <published>2017-04-05T10:06:09.000Z</published>
-    <updated>2017-05-25T15:53:44.000Z</updated>
+    <title>S公司和C公司的区别</title>
+    <link href="http://weilin.design/2017/02/21/S%E5%85%AC%E5%8F%B8%E5%92%8CC%E5%85%AC%E5%8F%B8%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>http://weilin.design/2017/02/21/S公司和C公司的区别/</id>
+    <published>2017-02-21T12:47:13.000Z</published>
+    <updated>2017-10-10T11:53:37.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="项目列表"><a href="#项目列表" class="headerlink" title="项目列表"></a>项目列表</h2><h4 id="1-关注组件"><a href="#1-关注组件" class="headerlink" title="1. 关注组件"></a>1. 关注组件</h4><ul>
-<li><p><strong>整体进度：</strong></p>
-<p>  已发布</p>
-</li>
-</ul>
-<h4 id="2-热门市场组件"><a href="#2-热门市场组件" class="headerlink" title="2. 热门市场组件"></a>2. 热门市场组件</h4><ul>
-<li><p><strong>整体进度：</strong></p>
-<p>  待联调（预计周五下班前交付）</p>
-</li>
-<li><p><strong>详细进度：</strong></p>
-<ul>
-<li>主题市场页面使用数据导航切换</li>
-<li>拆分<code>热门市场-提图组件</code>和<code>热门市场-推品组件</code>，监听数据导航切换时间<code>listrefresh</code>，目前完成80%</li>
-</ul>
-</li>
-<li><p><strong>问题：</strong></p>
-<ul>
-<li>需求太紧急，</li>
-<li>热门市场数据源没有发布，目前只支持预发验证</li>
-</ul>
-</li>
-</ul>
-<h4 id="3-挑货优惠券"><a href="#3-挑货优惠券" class="headerlink" title="3. 挑货优惠券"></a>3. 挑货优惠券</h4><ul>
-<li><p><strong>整体进度：</strong></p>
-<p>  已发布</p>
-</li>
-</ul>
-<h4 id="4-买家库身份核查弹窗"><a href="#4-买家库身份核查弹窗" class="headerlink" title="4. 买家库身份核查弹窗"></a>4. 买家库身份核查弹窗</h4><ul>
-<li><p><strong>整体进度：</strong></p>
-<p>  已发布</p>
-</li>
-<li><p><strong>问题：</strong></p>
-<ul>
-<li>数据统计上出了问题，@冥渊和@贷成在跟进</li>
-<li>H5页面发布请求，没有透传登录信息给服务端，目前使用@寄文提供的<code>waplogin.html</code>临时解决，但是需要基础设施能统一解决，已知会@元策，希望后期能统一加上</li>
-</ul>
-</li>
-</ul>
-<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ol>
-<li>出去玩，千万要注意安全，否则很容易受伤</li>
-</ol>
+    <content type="html"><![CDATA[<p>美国的股份有限公司和中国的几乎大同小异，都是用于建立公司的独立法人地位从而将公司责任和个人责任分离开来，使得公司的债权人不能向公司股东的个人财产追讨债务。而S公司和C公司的主要区别在缴税模式的不同，S公司更加趋向于类似合伙的缴税模式，即仅对公司的成员征税而不会对公司本身征税，而C公司既会对公司本身征税又会对公司的成员征税，即我们常说的“双重征税”（double taxation） 另外，S公司的股权人不能超过100人并且股权人必须是美国公民或居民，而法律对C公司的股权人数及身份没有限制要求。</p>
+<p>那么S公司和C公司各自有什么特点呢？</p>
+<p>C公司的最大特点在于其股票可以上市交易。这就表明C公司具有扩大规模成为国际型公司的潜力。因为股票IPO上市是目前最方便的融资手段。IPO上市可以让公司在较短的时间筹集大量的资本用于生产和销售规模的扩张。但是C公司的最大劣势在于之前提到的双重赋税的问题，也就是说，C公司本身需要以公司身份报税，并且，公司成员在获得公司分配的利润之后还需要再次以个人名义报税。因此，同样的一笔收入被两次征税。另外，C公司还需要按照州和联邦商法的规定进行一些例行公事的活动，比如定期召开董事会，正式的投票等等。</p>
+<p>S公司常常被称为“内部拥有的公司”（closelyheld corporation）。这种类型的公司通常没有上市股票进行融资，并且更趋向于合伙的形式。S公司的报税和合伙类似，是“透过型”的直接以公司成员的个人名义报税。S公司也没有例行公事，比如开会投票的规定。但是S公司的最大劣势在于其股票只能私人交易，不能进行IPO上市，因而极大的限制了S公司的发展规模。另外，S公司还有一个局限就是，其股东只能是美国公民或居民。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;项目列表&quot;&gt;&lt;a href=&quot;#项目列表&quot; class=&quot;headerlink&quot; title=&quot;项目列表&quot;&gt;&lt;/a&gt;项目列表&lt;/h2&gt;&lt;h4 id=&quot;1-关注组件&quot;&gt;&lt;a href=&quot;#1-关注组件&quot; class=&quot;headerlink&quot; title=&quot;1. 关注
+      工作积累
     
     </summary>
     
+      <category term="economy" scheme="http://weilin.design/categories/economy/"/>
+    
+    
+      <category term="经济" scheme="http://weilin.design/tags/%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="概念解析" scheme="http://weilin.design/tags/%E6%A6%82%E5%BF%B5%E8%A7%A3%E6%9E%90/"/>
+    
+      <category term="基础" scheme="http://weilin.design/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://weilin.design/2017/04/05/hello-world/"/>
-    <id>http://weilin.design/2017/04/05/hello-world/</id>
-    <published>2017-04-05T09:56:17.000Z</published>
-    <updated>2017-04-05T09:56:17.000Z</updated>
+    <title>自然人和法人的区别</title>
+    <link href="http://weilin.design/2017/02/21/%E8%87%AA%E7%84%B6%E4%BA%BA%E5%92%8C%E6%B3%95%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB/"/>
+    <id>http://weilin.design/2017/02/21/自然人和法人的区别/</id>
+    <published>2017-02-21T11:41:50.000Z</published>
+    <updated>2017-10-10T11:53:37.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>法人作为民事法律关系的主体，是与自然人相对称的，两者相比较有不同的特点： </p>
+<p>第一，法人是社会组织在法律上的人格化，是法律意义上的”人”，而不是实实在在的生命体，其依法产生、消亡。自然人是基于自然规律出生、生存的人，具有一国国籍的自然人称为该国的公民。自然人的生老病死依自然规律进行，具有自然属性，而法人不具有这一属性。 </p>
+<p>第二，虽然法人、自然人都是民事主体，但法人是集合的民事主体，即法人是一些自然人的集合体。例如大多数国家（包括我国）的公司法都规定，公司法人必须由两人以上的股东组成。对比之下，自然人则是以个人本身作为民事主体的。 </p>
+<p>第三，法人的民事权利能力，民事行为能力与自然人也有所不同。根据《民法通则》第37条规定，法人必须同时具备四个条件，缺一不可。 </p>
+<ul>
+<li><p>依法成立。即法人必须是经国家认可的社会组织。在我国，成立法人主要有两种方式：一是根据法律法规或行政审批而成立。如机关法人一般都是由法律法规或行政审批而成立的。二是经过核准登记而成立。如工商企业、公司等经工商行政管理部门核准登记后，成为企业法人。 </p>
+</li>
+<li><p>有必要的财产和经费。法人必须拥有独立的财产，作为其独立参加民事活动的物质基础。独立的财产，是指法人对特定范围内的财产享有所有权或经营管理权，能够按照自己的意志独立支配，同时排斥外界对法人财产的行政干预。 </p>
+</li>
+<li><p>有自己的名称、组织机构和场所。法人的名称是其区别于其他社会组织的标志符号。名称应当能够表现出法人活动的对象及隶属关系。经过登记的名称，法人享有专用权。法人的组织机构即办理法人一切事务的组织，被称作法人的机关，由自然人组成。法人的场所是指从事生产经营或社会活动的固定地点。法人的主要办事机构所在地为法人的住所。 </p>
+</li>
+<li><p>能够独立承担民事责任。指法人对自己的民事行为所产生的法律后果承担全部法律责任。除法律有特别规定外，法人的组成人员及其他组织不对法人的债务承担责任，同样，法人也不对除自身债务外的其他债务承担民事责任。</p>
+</li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      工作积累
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>你好，世界</title>
-    <link href="http://weilin.design/2017/01/09/sayhello/"/>
-    <id>http://weilin.design/2017/01/09/sayhello/</id>
-    <published>2017-01-08T17:43:08.000Z</published>
-    <updated>2017-04-05T09:56:17.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>你好，世界</p>
-<p>我的第一篇静态博客问世了</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;你好，世界&lt;/p&gt;
-&lt;p&gt;我的第一篇静态博客问世了&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="essay" scheme="http://weilin.design/categories/essay/"/>
+      <category term="economy" scheme="http://weilin.design/categories/economy/"/>
     
     
-      <category term="essay, 随笔" scheme="http://weilin.design/tags/essay-%E9%9A%8F%E7%AC%94/"/>
+      <category term="经济" scheme="http://weilin.design/tags/%E7%BB%8F%E6%B5%8E/"/>
+    
+      <category term="概念解析" scheme="http://weilin.design/tags/%E6%A6%82%E5%BF%B5%E8%A7%A3%E6%9E%90/"/>
+    
+      <category term="基础" scheme="http://weilin.design/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
